@@ -33,10 +33,11 @@ Polynomial regression is a type of regression analysis where the relationship be
 - Prone to overfitting, especially with high-degree polynomials.
 - Interpretability may be challenging with higher-order polynomials.
 - More computationally intensive than linear regression.
-- Applications of Polynomial Regression:
 
-Modeling growth patterns in biology or economics.
-Predicting trends in time series data.
-Modeling physical phenomena with non-linear relationships (e.g., thermodynamics).
-Predicting sales trends in business forecasting.
-Analyzing the relationship between variables in scientific research.
+# Applications of Polynomial Regression:
+
+- Modeling growth patterns in biology or economics.
+- Predicting trends in time series data.
+- Modeling physical phenomena with non-linear relationships (e.g., thermodynamics).
+- Predicting sales trends in business forecasting.
+- Analyzing the relationship between variables in scientific research.
